@@ -45,7 +45,7 @@ To run the calculator program, you'll need Python installed on your machine. Fol
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/calculator.git
+    git clone https://github.com/brianhernandez04/pythoncalculator
     ```
    
 2. **Navigate to the project directory:**
