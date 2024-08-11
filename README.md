@@ -41,23 +41,12 @@ Type 'y' to continue calculating with 8, 'n' to start a new calculation, or 'e' 
 
 ## Installation & Setup 🚀
 
-To run the calculator program, you'll need Python installed on your machine. Follow these steps to get started:
+To run the calculator program, you'll need to clone this Python repository on your machine. Follow these steps to get started:
 
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/brianhernandez04/pythoncalculator
     ```
-   
-2. **Navigate to the project directory:**
-    ```bash
-    cd calculator
-    ```
-
-3. **Run the program:**
-    ```bash
-    python calculator.py
-    ```
-
 Ensure you have Python 3.x installed. If you don't have Python installed, you can download it from [python.org](https://www.python.org/downloads/).
 
 ## Version Control ⬇️
